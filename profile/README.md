@@ -20,7 +20,7 @@ The application serves as a centralized hub for your digital workflow. Its core 
 
 With its clean, native macOS design, Barbee feels right at home on your desktop. It supports features like Dark Mode, Touch Bar controls for compatible MacBooks, and iCloud synchronization, ensuring your data is always up-to-date across all your Apple devices. Whether you are planning your week, jotting down ideas, or tracking project milestones, Barbee provides the tools you need in an intuitive package.
 
-![Barbee Interface](https://static.macupdate.com/screenshots/353920/m/phplasb3p-screenshot.png?v=1716530623)
+![Barbee Interface](https://macmenubar.com/wp-content/uploads/2022/08/barbee.jpg)
 
 ---
 
